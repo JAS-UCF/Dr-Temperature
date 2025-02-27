@@ -386,6 +386,62 @@
     [
       "4bb0d1e5-3eb7-4546-854c-b960971c031a",
       "Root"
+    ],
+    [
+      "aa3d05e7-46c5-4409-8c5f-56085c6de45e",
+      "Temperature Arr"
+    ],
+    [
+      "cfc377fd-5a5c-44db-95fe-a2b3c8131d68",
+      "Thermocouple ADC Sheet"
+    ],
+    [
+      "beaaa95f-90d6-4594-8bca-7a93fc78052d",
+      "Thermocouple ADC Sheet1"
+    ],
+    [
+      "387bf1bd-0347-4749-8f7e-a9c7e4185d65",
+      "Thermocouple ADC Sheet2"
+    ],
+    [
+      "1827d7ba-ef03-4963-8881-86637b86e37d",
+      "Thermocouple ADC Sheet3"
+    ],
+    [
+      "27278807-682a-47d9-b3e2-7a24d2029f8f",
+      "Thermocouple ADC Sheet4"
+    ],
+    [
+      "986b8b64-e086-42ff-a8fa-1f4e2d92f2f3",
+      "Thermocouple ADC Sheet5"
+    ],
+    [
+      "78ad893d-1da5-4362-859c-4c650af19015",
+      "Thermocouple ADC Sheet6"
+    ],
+    [
+      "e0494ece-a72a-43a4-9c26-1705a480d6ff",
+      "Thermocouple ADC Sheet7"
+    ],
+    [
+      "0513a691-4c28-4eab-8d5e-f8a5e7290cec",
+      "Thermocouple ADC Sheet8"
+    ],
+    [
+      "fccc26a5-036d-4fbb-a67c-cc12b6b86e14",
+      "Thermocouple ADC Sheet9"
+    ],
+    [
+      "1848904c-4f9c-4b3e-9230-b2f9d363a619",
+      "Thermocouple ADC Sheet10"
+    ],
+    [
+      "0e0af38b-d5be-4785-828e-e3327e07cb68",
+      "Thermocouple ADC Sheet11"
+    ],
+    [
+      "386bff51-f52e-4051-85d1-313c576d3ea2",
+      "12x Analog Multiplex"
     ]
   ],
   "text_variables": {}

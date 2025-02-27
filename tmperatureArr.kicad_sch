@@ -1,0 +1,2788 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "a1dc12ee-9b9e-406c-981a-12ee910a57ec")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 151.13 85.09) (xy 146.05 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "101c0eb8-ffb2-4d47-aeb2-18571da2f695")
+	)
+	(wire
+		(pts
+			(xy 74.93 144.78) (xy 69.85 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16eae572-4b7f-4d49-b2bd-06b749efc7c5")
+	)
+	(wire
+		(pts
+			(xy 151.13 129.54) (xy 146.05 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20611d62-c2a8-4bab-b17d-1e90deb0c2f6")
+	)
+	(wire
+		(pts
+			(xy 151.13 134.62) (xy 146.05 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20e53cbd-68b3-4eaf-87e2-d388a52d3093")
+	)
+	(wire
+		(pts
+			(xy 74.93 62.23) (xy 69.85 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25b03330-ef0b-4ed3-8ba2-3f3da84e3d0e")
+	)
+	(wire
+		(pts
+			(xy 151.13 67.31) (xy 146.05 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a3b346a-12c4-4974-ab35-85eee6a34291")
+	)
+	(wire
+		(pts
+			(xy 74.93 157.48) (xy 69.85 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a742fa5-ac1d-410b-84f5-d4cddc91f80a")
+	)
+	(wire
+		(pts
+			(xy 151.13 146.05) (xy 146.05 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "309e8ac3-a36a-481d-9ea6-0561a0fcbbbf")
+	)
+	(wire
+		(pts
+			(xy 74.93 54.61) (xy 69.85 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "324b2694-b20a-4e4c-b518-5642712fac52")
+	)
+	(wire
+		(pts
+			(xy 151.13 151.13) (xy 146.05 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "357fd31b-16a6-4368-90da-a205eecff7c4")
+	)
+	(wire
+		(pts
+			(xy 151.13 87.63) (xy 146.05 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36fc7b79-d300-40ae-af6f-35a2b540594c")
+	)
+	(wire
+		(pts
+			(xy 151.13 54.61) (xy 146.05 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37974eb4-aa90-417b-a857-2041221f9097")
+	)
+	(wire
+		(pts
+			(xy 74.93 106.68) (xy 69.85 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d112aa6-d57d-40fe-978b-aae50e9bf064")
+	)
+	(wire
+		(pts
+			(xy 151.13 127) (xy 146.05 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f1d582c-ba42-4606-97ce-96e4af1c4f98")
+	)
+	(wire
+		(pts
+			(xy 151.13 62.23) (xy 146.05 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46317e14-c699-4ba8-a1ea-873d2fa05663")
+	)
+	(wire
+		(pts
+			(xy 151.13 106.68) (xy 146.05 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b8dc053-a63f-4f7d-8c17-2d2f3c77b7c6")
+	)
+	(wire
+		(pts
+			(xy 74.93 59.69) (xy 69.85 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d255792-6123-45ea-b7d1-349c41538ce9")
+	)
+	(wire
+		(pts
+			(xy 74.93 87.63) (xy 69.85 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d8f6cc7-4160-4e96-bb6f-96a86c9d9a1b")
+	)
+	(wire
+		(pts
+			(xy 74.93 85.09) (xy 69.85 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e7a7b21-e63c-450c-b51c-252c9de3f67b")
+	)
+	(wire
+		(pts
+			(xy 151.13 59.69) (xy 146.05 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52578701-4029-4205-b933-1d618bc8e523")
+	)
+	(wire
+		(pts
+			(xy 151.13 33.02) (xy 146.05 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "602feaeb-12cd-4b5b-89cc-e7882a5df35b")
+	)
+	(wire
+		(pts
+			(xy 151.13 82.55) (xy 146.05 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "612c0fc1-d25c-4372-b28b-de757c7a689f")
+	)
+	(wire
+		(pts
+			(xy 74.93 33.02) (xy 69.85 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62609421-71a5-48a1-bc06-8ad01c11ae38")
+	)
+	(wire
+		(pts
+			(xy 74.93 43.18) (xy 69.85 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6701d21a-2b51-4b09-b057-e6025f14cfd6")
+	)
+	(wire
+		(pts
+			(xy 74.93 82.55) (xy 69.85 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "675caaf5-ab6b-478f-829d-0224089f574b")
+	)
+	(wire
+		(pts
+			(xy 151.13 156.21) (xy 146.05 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6caef0ee-b98d-41be-84d5-a9e5a238f4b4")
+	)
+	(wire
+		(pts
+			(xy 74.93 40.64) (xy 69.85 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e3a186e-5315-4800-99fa-96bd8a5952d2")
+	)
+	(wire
+		(pts
+			(xy 74.93 64.77) (xy 69.85 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fc7505c-3b76-4d22-b6ee-3361713f9104")
+	)
+	(wire
+		(pts
+			(xy 151.13 43.18) (xy 146.05 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78a40dd7-158e-4e53-b96d-fc5e2af5ad06")
+	)
+	(wire
+		(pts
+			(xy 151.13 143.51) (xy 146.05 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e7ebdf7-2a2d-4468-85e3-08847f9c12a8")
+	)
+	(wire
+		(pts
+			(xy 74.93 38.1) (xy 69.85 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80cad9d9-c0d2-44f1-b9aa-b78e5cff3c99")
+	)
+	(wire
+		(pts
+			(xy 74.93 30.48) (xy 69.85 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83eb29be-9b5f-4977-bba8-b3524326c555")
+	)
+	(wire
+		(pts
+			(xy 74.93 147.32) (xy 69.85 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84a6ad08-0624-4c64-b1b2-8a8d4c39b176")
+	)
+	(wire
+		(pts
+			(xy 151.13 77.47) (xy 146.05 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "850f5e54-6c58-4b99-8d2c-f9c55dc04947")
+	)
+	(wire
+		(pts
+			(xy 74.93 109.22) (xy 69.85 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "858b914c-7d90-4295-89e9-624ce49f9f71")
+	)
+	(wire
+		(pts
+			(xy 74.93 90.17) (xy 69.85 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95f07592-9fd2-4032-825a-203954c0517f")
+	)
+	(wire
+		(pts
+			(xy 74.93 35.56) (xy 69.85 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c47a7d9-cce6-4f48-a43f-bd46c8abd1d4")
+	)
+	(wire
+		(pts
+			(xy 74.93 101.6) (xy 69.85 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a118b0b4-2ecf-4b75-b207-677ad0640b5d")
+	)
+	(wire
+		(pts
+			(xy 151.13 99.06) (xy 146.05 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3ac22bd-19ee-4099-b7c1-7c2dbfa3c663")
+	)
+	(wire
+		(pts
+			(xy 74.93 104.14) (xy 69.85 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5291bf4-5b41-464d-8d28-11fd3b0881f2")
+	)
+	(wire
+		(pts
+			(xy 151.13 90.17) (xy 146.05 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5983a33-2eeb-4743-8f37-da2d213d3e78")
+	)
+	(wire
+		(pts
+			(xy 151.13 124.46) (xy 146.05 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6c53970-ff38-4401-a30b-6a789db48c50")
+	)
+	(wire
+		(pts
+			(xy 74.93 77.47) (xy 69.85 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7712dbc-fd6d-4c60-a466-a5e46929bd58")
+	)
+	(wire
+		(pts
+			(xy 74.93 134.62) (xy 69.85 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa06e377-18ef-4f1b-8602-53d444106517")
+	)
+	(wire
+		(pts
+			(xy 74.93 129.54) (xy 69.85 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad5432cd-70a4-4dd7-af0b-72bf0caf7193")
+	)
+	(wire
+		(pts
+			(xy 151.13 121.92) (xy 146.05 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b02ea900-3684-4c66-9fe7-47c6e11c736e")
+	)
+	(wire
+		(pts
+			(xy 74.93 149.86) (xy 69.85 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b18a5ba5-3ff9-4e1a-b3b1-8f2adfc28c2f")
+	)
+	(wire
+		(pts
+			(xy 74.93 67.31) (xy 69.85 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2eda070-10f7-4dcf-b494-de84687a74be")
+	)
+	(wire
+		(pts
+			(xy 151.13 101.6) (xy 146.05 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b755f531-ccc5-4df2-a6ec-41794e69c056")
+	)
+	(wire
+		(pts
+			(xy 74.93 154.94) (xy 69.85 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8769d97-215f-4649-9698-1f00a00c902d")
+	)
+	(wire
+		(pts
+			(xy 151.13 148.59) (xy 146.05 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2e31f91-50a7-433e-9b00-efae8f0e407d")
+	)
+	(wire
+		(pts
+			(xy 151.13 104.14) (xy 146.05 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c40b0090-dfa5-431f-be9d-58ce6899cfa9")
+	)
+	(wire
+		(pts
+			(xy 151.13 38.1) (xy 146.05 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8b51802-08be-4935-90d9-8f4d62cf8d91")
+	)
+	(wire
+		(pts
+			(xy 151.13 30.48) (xy 146.05 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccd1e9c4-4c6c-4aee-8b26-a150a31c4d7f")
+	)
+	(wire
+		(pts
+			(xy 74.93 121.92) (xy 69.85 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1e5162f-5bff-4381-bbae-805eaefb687a")
+	)
+	(wire
+		(pts
+			(xy 74.93 124.46) (xy 69.85 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4b3c1c0-68d2-43a8-b85c-f950cda4519f")
+	)
+	(wire
+		(pts
+			(xy 74.93 111.76) (xy 69.85 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de98839e-5e0f-4e5f-a61d-f91a40ced01f")
+	)
+	(wire
+		(pts
+			(xy 151.13 111.76) (xy 146.05 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deb4dec6-ce40-4944-b311-ac310c6b5ad4")
+	)
+	(wire
+		(pts
+			(xy 74.93 152.4) (xy 69.85 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2d12d1e-4ce9-4a02-898a-8e706ef62a88")
+	)
+	(wire
+		(pts
+			(xy 74.93 57.15) (xy 69.85 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e65b0065-a850-4e76-a959-bff9fe3b2cac")
+	)
+	(wire
+		(pts
+			(xy 151.13 80.01) (xy 146.05 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6912168-7bb6-483c-8c2e-5563a565b35f")
+	)
+	(wire
+		(pts
+			(xy 74.93 132.08) (xy 69.85 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6ed4a06-f8dd-47ac-96e8-3ace83c5021e")
+	)
+	(wire
+		(pts
+			(xy 151.13 153.67) (xy 146.05 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9169a3f-daf5-4fb1-a96d-c7e0beb54fde")
+	)
+	(wire
+		(pts
+			(xy 151.13 132.08) (xy 146.05 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb636c43-c342-4496-870a-cac2ac528bcf")
+	)
+	(wire
+		(pts
+			(xy 74.93 80.01) (xy 69.85 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebf58ce1-cb2b-4477-82fd-2cc29d531132")
+	)
+	(wire
+		(pts
+			(xy 74.93 127) (xy 69.85 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee0682bd-24dc-431f-a0f9-1a3c26bc76b8")
+	)
+	(wire
+		(pts
+			(xy 151.13 64.77) (xy 146.05 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeb9e7d9-538d-4798-b832-2afbe75d399b")
+	)
+	(wire
+		(pts
+			(xy 151.13 109.22) (xy 146.05 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef83c133-da1b-4063-97f9-6089b3ab4861")
+	)
+	(wire
+		(pts
+			(xy 151.13 57.15) (xy 146.05 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faf0ed11-2a6f-48f3-9228-58d65d79b62e")
+	)
+	(wire
+		(pts
+			(xy 74.93 99.06) (xy 69.85 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb673330-7196-4978-b6ed-a653eab4f5c9")
+	)
+	(wire
+		(pts
+			(xy 151.13 40.64) (xy 146.05 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb830661-19a2-4750-8a05-1a6ee2ba825c")
+	)
+	(wire
+		(pts
+			(xy 151.13 35.56) (xy 146.05 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffae81aa-cf9d-4c7e-a0f0-e7ebffd5838d")
+	)
+	(text "If a threshold is exceeded, the\ncorresponding bit is set in the Fault Status register (0Fh)\nand, if not masked, the FAULT output will assert. "
+		(exclude_from_sim no)
+		(at 97.79 -14.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83cb66a7-3809-4b57-b1fa-6f027401ee64")
+	)
+	(text "The DRDY output goes low when a new conversion result\nis available in the Linearized Thermocouple Temperature\nregister. When a read-operation of the Linearized\nThermocouple Temperature register or the Cold-Junction\nTemperature Register (if enabled) completes, DRDY\nreturns high."
+		(exclude_from_sim no)
+		(at 99.314 2.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f5053e7e-3920-49ff-9a35-de773cab2652")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 151.13 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "007aa6be-8fb2-40b9-b603-54a847f2d539")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 74.93 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0341d026-289d-4aca-94a3-c98299f9da85")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 151.13 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05a745ec-c78f-47ec-a298-4a64300abd36")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 151.13 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a05a431-72f3-4ff3-a8e3-0184f45edfbf")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 151.13 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0eeb199b-5c52-456e-a132-4e54c5026f97")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 74.93 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0f4617dc-a9d7-4b41-bd90-541949952650")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 74.93 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "12c52028-d4fc-41b3-bfe8-68612bac481f")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 74.93 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "14901a0c-68a5-4850-b6b7-4b8a696430a4")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 151.13 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1f9ea78a-14be-4e00-adb0-c747c50b3721")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 74.93 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "21b73118-c8e1-4043-98b2-750665501fd7")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 74.93 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2520c70e-f509-4b70-8f1a-77f2ecc06864")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 151.13 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28d00c2c-15da-47fa-a636-7ef1980b160a")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 151.13 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2e5ac73d-3e04-4863-8ed7-2da169e118c4")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 151.13 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2e6ab30f-359a-47da-9c2b-bbe02c2fc9ea")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 151.13 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3762d4fc-45aa-4a17-8f75-0ab2945a9e1c")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 151.13 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "37a3d707-ec7a-49c1-8e78-104fd576b7f4")
+	)
+	(hierarchical_label "CS8"
+		(shape input)
+		(at 151.13 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3da93f83-6145-4f52-bfac-f487bc3afb75")
+	)
+	(hierarchical_label "CS0"
+		(shape input)
+		(at 74.93 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "44d9fe3e-e9be-4696-a778-b4fe3eab87e7")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 151.13 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "454da1e7-1e36-49e9-bc7f-17b8f64c9d0c")
+	)
+	(hierarchical_label "CS11"
+		(shape input)
+		(at 151.13 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4618ffe1-3999-4f55-a9b1-86fabf3e68d2")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 151.13 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4907861c-142c-49d0-a025-80478006ab85")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 74.93 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "493c1a29-2e07-45ee-bb51-fcd5048912cc")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 74.93 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49565882-f6e4-4c0f-b745-bf678458dcc8")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 74.93 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c0f7016-2e99-497b-9b1a-2fa356f9a38c")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 151.13 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f83eb3a-97af-4def-9cfd-88dbaa69a391")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 151.13 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "509fd540-3fac-47b3-9fb8-ee4f9724ed00")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 74.93 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "51bd95f2-ce23-479f-b026-05502a8bdda4")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 74.93 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "52d7e593-b59d-4710-9b02-9d5917adddd1")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 74.93 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "53bcdd9d-61e4-4c66-ae91-57479c3b9152")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 151.13 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "555e194d-fa72-4163-aa18-a5f9878f4e5c")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 151.13 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "576e4ed7-6d88-4e34-b7ca-aa90de0ab379")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 74.93 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c4bf52a-90d1-489d-92da-365877dd4813")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 151.13 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6294890d-4bfd-4300-97bc-e699e5b47b78")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 74.93 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "652380d0-4cf5-4d09-aa98-b393ebd35180")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 74.93 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c0b5d28-2c95-4263-b315-5699bdebfeed")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 151.13 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7c58ba1e-b41f-4dc4-8db3-ddfa0ba4cffb")
+	)
+	(hierarchical_label "CS7"
+		(shape input)
+		(at 151.13 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7cd5ec4c-0c3d-487e-af25-4df49f0ac677")
+	)
+	(hierarchical_label "CS9"
+		(shape input)
+		(at 151.13 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "809e1cd7-1869-459d-bc94-1ae8007e3595")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 151.13 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "83647b3d-c19f-4d1d-9237-a13bb543bd5d")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 74.93 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "83cbb3b8-58ab-4ef3-8e3b-b33464f1f961")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 151.13 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "84a1af40-0a10-49e3-b1e4-cd5fbbe3959e")
+	)
+	(hierarchical_label "CS2"
+		(shape input)
+		(at 74.93 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88ff24bb-5fd2-4281-9c53-0c224f1df3ea")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 74.93 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "89014b85-8058-459a-8007-e68691893beb")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 151.13 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "915b36e9-d721-4b1a-9117-45fdbd120905")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 151.13 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92261d70-6500-4eb3-b195-60070c1a4cec")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 74.93 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "96fc640b-d637-4ac8-a2b3-f801e8bdfcc3")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 151.13 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "972d43a1-f819-4614-85d6-7711e6d69861")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 74.93 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9a3d9b80-1cc3-4ab0-bc4c-a43b4cf310e9")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 151.13 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a1e6789b-4d27-4bf3-88d5-e58ed9e6f203")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 151.13 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4d76b91-500a-4cda-8633-9643af314fee")
+	)
+	(hierarchical_label "~{FAULT}"
+		(shape input)
+		(at 74.93 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a5277b31-aa97-43d6-af27-75ade8816664")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 151.13 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a93b340b-a28e-4373-8e03-2dcdfe74b3f0")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 74.93 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b0a23b0a-f396-47ff-8f88-ccdfa6bafab7")
+	)
+	(hierarchical_label "CS4"
+		(shape input)
+		(at 74.93 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b32dac5c-f623-45ad-bcb9-0ba7acc5af6c")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 151.13 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5df05f0-b1f0-47ed-a065-e995cd1b45eb")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 74.93 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6d8db57-bda0-4b78-a25f-c1d335af24bb")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 74.93 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bacbb878-8a80-4a96-8d25-6f56663e8db2")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 74.93 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bde8ce3b-f64f-42e9-bb17-4bc4949a4107")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 151.13 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c6f964df-4b15-4b35-b067-dfd8a22f1499")
+	)
+	(hierarchical_label "MISO"
+		(shape input)
+		(at 74.93 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c8221324-17af-443e-a9f6-a1c3a264af17")
+	)
+	(hierarchical_label "CS1"
+		(shape input)
+		(at 74.93 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cdf86f29-8522-4e4c-9f89-ef41013c0dfd")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 74.93 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d059e52b-2431-4ac9-886a-694391936b99")
+	)
+	(hierarchical_label "CS6"
+		(shape input)
+		(at 151.13 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d266564c-2a0c-4cc9-ae20-f9a7e8506579")
+	)
+	(hierarchical_label "CS3"
+		(shape input)
+		(at 74.93 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d99e80ac-3706-4177-a512-e5f433d562d6")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 74.93 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de45ac2b-117b-4a21-9d77-8a5dea35bc67")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 74.93 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e1ba7815-b20e-492d-be72-c723ef92c9da")
+	)
+	(hierarchical_label "~{DRDY}"
+		(shape input)
+		(at 74.93 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e232886e-f0e0-475e-a8b1-d079b2a273b8")
+	)
+	(hierarchical_label "CS5"
+		(shape input)
+		(at 74.93 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6c2ad89-7788-416c-ac64-832f367d6203")
+	)
+	(hierarchical_label "CS10"
+		(shape input)
+		(at 151.13 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f24c71f2-2cbd-457a-9460-39cf0ebd9a8c")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 151.13 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5ea332d-3fb9-455e-a096-891093fa8ad5")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 74.93 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa526763-9739-4c2c-90d7-56c180e14311")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 151.13 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "febd23ab-f534-4620-986f-6d8e00f1871c")
+	)
+	(sheet
+		(at 119.38 76.2)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0513a691-4c28-4eab-8d5e-f8a5e7290cec")
+		(property "Sheetname" "Thermocouple ADC Sheet8"
+			(at 119.38 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 119.38 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 146.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "74258d70-938d-4d32-9816-d14bb56b7ff5")
+		)
+		(pin "SCK" input
+			(at 146.05 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "669a3175-28cb-43b7-921b-fc04e52ec604")
+		)
+		(pin "SDI" input
+			(at 146.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8f22280e-a022-4fd7-bc14-99cc01d5d9df")
+		)
+		(pin "~{FAULT}" input
+			(at 146.05 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "913652d2-1c7d-4a29-bc07-e099e94a9d1c")
+		)
+		(pin "~{CS}" input
+			(at 146.05 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6547d654-380d-436e-b130-b7431c69aa44")
+		)
+		(pin "~{RDY}" input
+			(at 146.05 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a7c69c05-7b2c-4a0c-a8fd-4a5308131732")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 142.24)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e0af38b-d5be-4785-828e-e3327e07cb68")
+		(property "Sheetname" "Thermocouple ADC Sheet11"
+			(at 119.38 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 119.38 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 146.05 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2a1a3a66-750f-42c5-a39f-893fa2646726")
+		)
+		(pin "SCK" input
+			(at 146.05 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f191ae35-428f-4b4c-88e6-f786797b9d9a")
+		)
+		(pin "SDI" input
+			(at 146.05 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cb29e5a0-d48a-4452-8864-f858d8affbec")
+		)
+		(pin "~{FAULT}" input
+			(at 146.05 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7fdef619-f6fc-458a-8935-f24a373da20d")
+		)
+		(pin "~{CS}" input
+			(at 146.05 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4b1e1372-5e9a-45e0-82ca-a31247b4a82e")
+		)
+		(pin "~{RDY}" input
+			(at 146.05 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f2e2613b-7778-46ac-a19d-fe92105ceaf5")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 97.79)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1827d7ba-ef03-4963-8881-86637b86e37d")
+		(property "Sheetname" "Thermocouple ADC Sheet3"
+			(at 43.18 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 43.18 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 69.85 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f40c9d24-0486-476d-90af-56e5bf250fd8")
+		)
+		(pin "SCK" input
+			(at 69.85 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f8a577a4-d102-46e6-94ec-565cb7676e5d")
+		)
+		(pin "SDI" input
+			(at 69.85 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d863c3ac-2dd4-4950-8b4e-ee2ddf77ce17")
+		)
+		(pin "~{FAULT}" input
+			(at 69.85 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f8708802-b54c-4e15-9b8c-c846b43730bd")
+		)
+		(pin "~{CS}" input
+			(at 69.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c6b094a9-423e-4c57-9166-d9b6ec7811d6")
+		)
+		(pin "~{RDY}" input
+			(at 69.85 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a015f9eb-a668-4e2e-a627-dccf5b94ef78")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 120.65)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1848904c-4f9c-4b3e-9230-b2f9d363a619")
+		(property "Sheetname" "Thermocouple ADC Sheet10"
+			(at 119.38 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 119.38 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 146.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6afdccee-f797-4056-94a0-6603142b0bff")
+		)
+		(pin "SCK" input
+			(at 146.05 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f7b95142-0c21-468c-bcf3-a54eb189b8f7")
+		)
+		(pin "SDI" input
+			(at 146.05 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "54840f47-a6e6-421c-aa61-ff57cf7a1b85")
+		)
+		(pin "~{FAULT}" input
+			(at 146.05 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "63934d1f-8892-435c-94d3-dbb846377ce5")
+		)
+		(pin "~{CS}" input
+			(at 146.05 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "37b88055-51e5-4589-935f-5608a2b62d9e")
+		)
+		(pin "~{RDY}" input
+			(at 146.05 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ce137d6c-47cf-4e38-af8b-afd22baf4d7c")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 120.65)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27278807-682a-47d9-b3e2-7a24d2029f8f")
+		(property "Sheetname" "Thermocouple ADC Sheet4"
+			(at 43.18 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 43.18 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 69.85 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7d609cea-7307-4bd8-92f9-245615ea52bd")
+		)
+		(pin "SCK" input
+			(at 69.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "929213f9-43d3-410a-a87a-974375cef7c2")
+		)
+		(pin "SDI" input
+			(at 69.85 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "24dfb05e-d604-45b8-87b3-89c1a5e640af")
+		)
+		(pin "~{FAULT}" input
+			(at 69.85 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "673fed6c-e1b7-48a3-a9cb-e9518e9cdef4")
+		)
+		(pin "~{CS}" input
+			(at 69.85 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cd9726c0-27f8-48a0-aecc-8fc7b60cd1f2")
+		)
+		(pin "~{RDY}" input
+			(at 69.85 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9d4bd697-d171-4fca-a856-fe4c5542f19c")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 76.2)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "387bf1bd-0347-4749-8f7e-a9c7e4185d65")
+		(property "Sheetname" "Thermocouple ADC Sheet2"
+			(at 43.18 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 43.18 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b9ac42c6-2d82-48b6-8521-9677a0b6b295")
+		)
+		(pin "SCK" input
+			(at 69.85 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d246af25-795e-4cf7-9704-9e722d7c7fad")
+		)
+		(pin "SDI" input
+			(at 69.85 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dbd7e61e-249d-4f11-805d-2784b2631969")
+		)
+		(pin "~{FAULT}" input
+			(at 69.85 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bd4c33e4-f6eb-47b3-b1fa-94df86fd76ce")
+		)
+		(pin "~{CS}" input
+			(at 69.85 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "feadc8b7-115d-4329-ad5a-c4b140da6b7b")
+		)
+		(pin "~{RDY}" input
+			(at 69.85 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1951931c-8b11-4966-a456-62a23d357b51")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 29.21)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78ad893d-1da5-4362-859c-4c650af19015")
+		(property "Sheetname" "Thermocouple ADC Sheet6"
+			(at 119.38 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 119.38 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 146.05 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9fcb4341-ca15-415f-929d-a79c6f55f7ba")
+		)
+		(pin "SCK" input
+			(at 146.05 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0c48e70e-91e8-44b7-b20d-6cee74d753c1")
+		)
+		(pin "SDI" input
+			(at 146.05 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "66728df8-5e29-479c-ad8f-a4bdc305eb8e")
+		)
+		(pin "~{FAULT}" input
+			(at 146.05 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "85aea548-b698-46ec-977f-641266f88d91")
+		)
+		(pin "~{CS}" input
+			(at 146.05 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ce705146-52fb-442e-b23f-bbeca2c29ff2")
+		)
+		(pin "~{RDY}" input
+			(at 146.05 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d47d0db5-ec45-4bb1-b242-1b73ed8620f5")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 143.51)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "986b8b64-e086-42ff-a8fa-1f4e2d92f2f3")
+		(property "Sheetname" "Thermocouple ADC Sheet5"
+			(at 43.18 142.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 43.18 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 69.85 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "de5a181e-e765-45a1-b417-a31aa405a76f")
+		)
+		(pin "SCK" input
+			(at 69.85 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "833e75c6-7efe-4563-a1ad-490296f8a2b0")
+		)
+		(pin "SDI" input
+			(at 69.85 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b06daf1c-e36e-4837-b728-c2424da2925d")
+		)
+		(pin "~{FAULT}" input
+			(at 69.85 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "81481053-29f2-4cd0-8443-8939dc6a1d68")
+		)
+		(pin "~{CS}" input
+			(at 69.85 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f1719d33-ab44-4b61-a71c-e05e1c5fe654")
+		)
+		(pin "~{RDY}" input
+			(at 69.85 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6a5003b4-95d1-4a80-8e63-eb30a4f25add")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 53.34)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "beaaa95f-90d6-4594-8bca-7a93fc78052d")
+		(property "Sheetname" "Thermocouple ADC Sheet1"
+			(at 43.18 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 43.18 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 69.85 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "39b43d36-98e0-43e2-81eb-b24c3f75b205")
+		)
+		(pin "SCK" input
+			(at 69.85 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4ab5c577-13b7-4dc8-aeb6-f7e02ed93650")
+		)
+		(pin "SDI" input
+			(at 69.85 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bf87d9bc-eaa0-4e63-a2f0-8cda4cc65cf2")
+		)
+		(pin "~{FAULT}" input
+			(at 69.85 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "773950bc-3851-40fc-9bad-820006d5afdf")
+		)
+		(pin "~{CS}" input
+			(at 69.85 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "47cf8110-f0ac-47d4-88b3-0f9d0c7cb8af")
+		)
+		(pin "~{RDY}" input
+			(at 69.85 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e845f613-8e99-41da-9204-9323d2c39820")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 29.21)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cfc377fd-5a5c-44db-95fe-a2b3c8131d68")
+		(property "Sheetname" "Thermocouple ADC Sheet"
+			(at 43.18 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 43.18 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 69.85 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3e8453b9-d169-4d8f-b46e-6c7d9a183501")
+		)
+		(pin "SCK" input
+			(at 69.85 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "28916649-68d7-413c-8ebc-1904f1e14553")
+		)
+		(pin "SDI" input
+			(at 69.85 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c358ed5c-c7e3-44b5-88f9-557bbe3688a8")
+		)
+		(pin "~{FAULT}" input
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7b2b73d2-1235-47cd-9e31-a19fbd5f8fc0")
+		)
+		(pin "~{CS}" input
+			(at 69.85 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3ae4a040-4cc4-430a-9740-61aad416df93")
+		)
+		(pin "~{RDY}" input
+			(at 69.85 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "20d695c7-97db-40f3-8966-0f3710df1e3c")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 53.34)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0494ece-a72a-43a4-9c26-1705a480d6ff")
+		(property "Sheetname" "Thermocouple ADC Sheet7"
+			(at 119.38 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 119.38 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 146.05 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "135529a2-64ec-45b2-a696-547df0fe684f")
+		)
+		(pin "SCK" input
+			(at 146.05 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "39849153-f115-436f-a1e8-aa3f4f2a457d")
+		)
+		(pin "SDI" input
+			(at 146.05 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c55d63be-03fd-4807-99e5-9209a6e7ceba")
+		)
+		(pin "~{FAULT}" input
+			(at 146.05 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "85f16d65-b7db-46f1-b52d-9e67e60b2aae")
+		)
+		(pin "~{CS}" input
+			(at 146.05 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "29fa94ca-e9de-46b6-bd9d-297da955cc3f")
+		)
+		(pin "~{RDY}" input
+			(at 146.05 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8cc72502-56fc-4194-b1b3-d3e203d46c49")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 97.79)
+		(size 26.67 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fccc26a5-036d-4fbb-a67c-cc12b6b86e14")
+		(property "Sheetname" "Thermocouple ADC Sheet9"
+			(at 119.38 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermocoupleADC.kicad_sch"
+			(at 119.38 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDO" input
+			(at 146.05 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "293ab90c-0c6f-4957-90d4-91d4c4498de6")
+		)
+		(pin "SCK" input
+			(at 146.05 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "70e58dec-6dd2-4985-9cfd-1f3616b88e1d")
+		)
+		(pin "SDI" input
+			(at 146.05 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3ddf056d-544b-4d36-83d2-48411978bede")
+		)
+		(pin "~{FAULT}" input
+			(at 146.05 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e58210fd-a907-4127-b4ea-b71f056ce7bd")
+		)
+		(pin "~{CS}" input
+			(at 146.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0968d8a5-ae9d-4ff9-b33d-9d3e7e9f2f2a")
+		)
+		(pin "~{RDY}" input
+			(at 146.05 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "be95f725-ed22-4c6c-a389-ba3ab0b05341")
+		)
+		(instances
+			(project "drTemp"
+				(path "/4bb0d1e5-3eb7-4546-854c-b960971c031a/aa3d05e7-46c5-4409-8c5f-56085c6de45e"
+					(page "12")
+				)
+			)
+		)
+	)
+)
